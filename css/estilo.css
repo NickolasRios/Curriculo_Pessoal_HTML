@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    text-align: center;
+    justify-content: center;
+    line-height: 7pt;
+    background-color: rgb(70, 70, 222);
+}
+
+fieldset {
+    background-color: azure;
+    border-color: rgb(0, 0, 0);
+    border: 3px solid;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+
+.foto{
+    border: 2px solid rgb(47, 30, 240);
+    width: 200px;
+    height: 200px;
+}
+
+.inicio{
+    text-align: center;
+}
+
